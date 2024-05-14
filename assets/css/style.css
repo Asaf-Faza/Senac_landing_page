@@ -15,7 +15,7 @@
         width: 75rem;
     }
     header{
-        border-bottom: 1px solid #000;
+        border-bottom: 1px solid #E4E4E4;
         display: flex;
         justify-content: space-between;
         align-items: center;
