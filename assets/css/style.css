@@ -132,6 +132,50 @@ br{
     box-shadow: 0px 0px 15px -5px;
     border-bottom: 5px solid #69B99D;
 }
+.comments .com{
+    display: flex;
+    justify-content: center;
+}
+.comments .com .box{
+    width: 22rem;
+    box-shadow: 0px 0px 15px -5px;
+}
+.comments .com .box .text p{
+    text-wrap: wrap;
+    margin-left: 1rem;
+    margin-top: 0rem;
+}
+.comments .com .box .text img{
+    margin: 1rem 0rem 0rem 1rem;
+}
+.comments .com .box2{
+    display: none;
+}
+.comments .com .box .user{
+    display: flex;
+    align-items: center;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+}
+.comments .com .box .user img{
+    border-radius: 100%;
+}
+.comments .com .box .user p{
+    display: flex;
+    margin-left: 1rem;
+    align-items: center;
+    color: #767676;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+.comments .com .box p{
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
 .comments .treeDots{
     display: flex;
     justify-content: center;
