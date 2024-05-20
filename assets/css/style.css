@@ -32,6 +32,7 @@ header .menu a span{
 .linha .text h2,
 .sobreNos .text h2,
 .servicos .text h2,
+.servicos .line .box h3,
 .comments h2,
 .contato .text h2,
 footer .footer .text h2{
@@ -371,7 +372,7 @@ footer{
         margin-top: 2rem;
     }
     .servicos .line .box h3{
-        font-size: calc(2vw + .5rem);
+        font-size: calc(1.5vw + .3rem);
         font-family: "Poppins", sans-serif;
         font-weight: 700;
         font-style: normal;
