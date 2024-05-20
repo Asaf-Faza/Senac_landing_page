@@ -1,5 +1,7 @@
-Projeto Landing Page Senac
+Projeto Landing Page Senac - origin 6
 
-Aula do dia 13/05/2024 às 11:50.
+em grid
+
+Aula do dia 20/05/2024 às 14:43.
 
 última alteração: 20/05
